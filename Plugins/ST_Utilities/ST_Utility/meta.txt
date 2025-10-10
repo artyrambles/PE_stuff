@@ -1,0 +1,5 @@
+﻿Name       = Stahltier's Utility Scripts
+Version    = 1.0.0
+Essentials = 21.1
+Website    = https://github.com/artyrambles/PE_stuff
+Credits    = Stahltier
