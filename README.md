@@ -4,6 +4,10 @@ I use PE v21.1, so I can only guarantee that they are compatible with that versi
 
 The plugins and resources are provided as is and you download and use them at your own risk. I'm not responsible for your project breaking or incompatibilities with other plugins/scripts. Even though I try to test my code thoroughly and use it in my own project(s), it's always possible that there are bugs or fringe cases I didn't encounter while testing. **Always make a backup of your project before importing new scripts/plugins/resources!**
 
+## Terms of Use
+All of the plugins and resources I am uploading to this repro can be used for free with non-commercial Pokemon fangames. You are allowed to edit and expand any code from my plugins, make your own add-ons, or port it to newer/older versions of Pokemon Essentials. Please credit me if you use my stuff in your game.
+<br>**Do not re-upload my plugins and resources without making any changes or additions first, and always link back to this repro if you upload your ports/fixes/add-ons of my scripts.**
+
 ## Plugins
 For all the plugins uploaded here, the install instructions are the same: Download the plugin as a zip, then unpack it with your favorite archive processing software of choice. You will find at least one folder in there that's called Plugins and contains a folder with the name of the plugin, which in turns contains a meta.txt as well as one or more Ruby files (filename ending in .rb). Make sure to copy the entire folder called Plugins into your project's root folder (the one that should already contain a folder called Plugins).
 
