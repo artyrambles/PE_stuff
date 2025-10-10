@@ -15,3 +15,13 @@ Any plugin that has a more elaborate install process will contain a Readme.txt t
 This plugin mainly lets you display the overworld sprite of the Pokémon that used SURF instead of the generic default surfing sprite.
 In order for this to work correctly, you need to make sure the sprites actually exist in your project - check out the 0_settings.rb to see what files the plugin expects to find and where.
 There is an optional "HM Ride" feature in this plugin, which you can ignore if you don't want to use such a mechanic. Change the values in the 0_settings.rb in order to enable this feature (it's disabled by default).
+
+## Resources
+These are some graphics and data files that I made and am okay with sharing for others to use in their fangames.
+Please give credit to me when using them. They are only meant for use in non-commercial Pokemon fangames, but can be used outside of Pokemon Essentials if you make your own adjustments to make them compatible.
+### Retro Charmander
+This is an edit to the sprite of the vanilla Charmander that I made to look more like its old generation 1 artwork and sprites.
+I packaged it to be used with Pokemon Essentials v21.1, it comes with all the needed graphics and PBS files to make it either a default replacement for the vanilla Charmander or an alternate form. The Graphics and PBS folder just have to be dropped inside your game's root folder and you're ready to go, if you're using the Generation 9 Resource Pack and want to add the Retro Charmander as a new form.
+Check inside the downloaded archive for optional files for pre-arranged and correctly named folders/files if you aren't using the Generation 9 Resource Pack or if you want this Charmander to replace the default one, or if you want the vanilla shiny colors instead of the edited ones.
+
+Make sure to recompile the PBS files in the playtest if you are using the forms.
