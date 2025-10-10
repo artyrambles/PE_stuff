@@ -5,7 +5,8 @@ I use PE v21.1, so I can only guarantee that they are compatible with that versi
 The plugins and resources are provided as is and you download and use them at your own risk. I'm not responsible for your project breaking or incompatibilities with other plugins/scripts. Even though I try to test my code thoroughly and use it in my own project(s), it's always possible that there are bugs or fringe cases I didn't encounter while testing. **Always make a backup of your project before importing new scripts/plugins/resources!**
 
 ## Terms of Use
-All of the plugins and resources I am uploading to this repro can be used for free with non-commercial Pokemon fangames. You are allowed to edit and expand any code from my plugins, make your own add-ons, or port it to newer/older versions of Pokemon Essentials. Please credit me if you use my stuff in your game.
+All of the plugins and resources I am uploading to this repro can be used for free with non-commercial Pokemon fangames. You are allowed to edit and expand any code from my plugins, make your own add-ons, or port it to newer/older versions of Pokemon Essentials. 
+Please credit me if you use my stuff in your game. Putting something like "(name of the resource or plugin you used) by Stahltier" is perfectly fine, linking to my github is not required if you are using my stuff as part of a game you release.
 <br>**Do not re-upload my plugins and resources without making any changes or additions first, and always link back to this repro if you upload your ports/fixes/add-ons of my scripts.**
 
 ## Plugins
