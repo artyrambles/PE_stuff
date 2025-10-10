@@ -11,7 +11,7 @@ If there are additional folders in the zip you downloaded (for example Graphics)
 Some of my plugins contain configurable settings. They will either be at the top of the script Ruby file (identified by comments inside the file), or povided as a seperate 0_settings.rb file that is contained in the same folder as the 1_script.rb! Follow the comments in the code to customize these settings but don't change anything else except these values unless you know what you're doing and want to modify the actual code of the plugin.
 
 Any plugin that has a more elaborate install process will contain a Readme.txt that explains how to set it up properly.
-### Ride & Surf Plugin
+### Ride & Surf Plugin (not available yet)
 This plugin mainly lets you display the overworld sprite of the Pokémon that used SURF instead of the generic default surfing sprite.
 In order for this to work correctly, you need to make sure the sprites actually exist in your project - check out the 0_settings.rb to see what files the plugin expects to find and where.
 There is an optional "HM Ride" feature in this plugin, which you can ignore if you don't want to use such a mechanic. Change the values in the 0_settings.rb in order to enable this feature (it's disabled by default).
