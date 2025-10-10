@@ -1,0 +1,28 @@
+#===============================
+# created by Stahl_Tier!
+# for Pokemon Essentials v21.1
+#===============================
+#
+# Feel free to use for non-commercial fangames with giving credit to me.
+# Simply drop this file into your PBS folder to add this form to your game without overwriting existing data.
+#
+# This is an alternate version of the PBS file that only uses moves from Generation 8 and older.
+# It therefore doesn't require the Generation 9 Resource Pack.
+#
+# This PBS file makes the Retro Charmander be its own Form variant of the standard Kantonian Charmander, featuring
+# slightly different stats, a custom Pokedex entry, and an altered moveset.
+# Simply delete these sections if you just want the visual changes.
+#-------------------------------
+[CHARMANDER,1]
+FormName = Basal Form
+BaseStats = 39,62,43,65,55,50
+EVs = ATTACK,1
+Happiness = 50
+Abilities = FLAMEBODY, FLASHFIRE
+HiddenAbilities = DEFEATIST
+Moves = 1,GROWL,1,SCRATCH,8,FLAMEWHEEL,12,BITE,17,FIREFANG,20,SLASH,24,WILLOWISP,32,FLAMECHARGE,38,FLAREBLITZ,44,DRAGONRAGE,52,BLASTBURN
+TutorMoves = BODYSLAM,BREAKINGSWIPE,BRICKBREAK,CRUNCH,DIG,DRAGONCLAW,DRAGONDANCE,DRAGONPULSE,DRAGONTAIL,ENDURE,FACADE,FALSESWIPE,FIREBLAST,FIREFANG,FIREPLEDGE,FIREPUNCH,FIRESPIN,FLAMECHARGE,FLAMETHROWER,FLAREBLITZ,FLING,FOCUSBLAST,FOCUSPUNCH,HEATWAVE,HELPINGHAND,METALCLAW,OUTRAGE,OVERHEAT,PROTECT,REST,ROAR,ROCKSLIDE,ROCKTOMB,SCARYFACE,SHADOWCLAW,SLEEPTALK,SUBSTITUTE,SWIFT,SWORDSDANCE,TAKEDOWN,THUNDERPUNCH
+EggMoves = ANCIENTPOWER,BELLYDRUM,BITE,SUNNYDAY,DRAGONRUSH,DRAGONTAIL,IRONTAIL,METALCLAW,WILLOWISP
+Weight = 9.5
+Habitat = Cave
+Pokedex = When rain is too sparse and the grass becomes dry during the hot months, its tail may cause wildfires. Some CHARMANDER use this to hunt.

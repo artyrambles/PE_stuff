@@ -1,0 +1,11 @@
+#===============================
+# RETRO CHARMANDER
+# created by Stahl_Tier!
+# for Pokemon Essentials v21.1
+#===============================
+#
+# Feel free to use for non-commercial fangames with giving credit to me.
+# This and my other resources can be found here:
+# https://github.com/artyrambles/PE_stuff/
+#
+#===============================

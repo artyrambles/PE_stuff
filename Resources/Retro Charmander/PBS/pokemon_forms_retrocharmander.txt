@@ -1,0 +1,30 @@
+#===============================
+# created by Stahl_Tier!
+# for Pokemon Essentials v21.1
+#===============================
+#
+# Feel free to use for non-commercial fangames with giving credit to me.
+# Simply drop this file into your PBS folder to add this form to your game without overwriting existing data.
+#
+# This PBS file makes the Retro Charmander be its own Form variant of the standard Kantonian Charmander, featuring
+# slightly different stats, a custom Pokedex entry, and an altered moveset.
+# Simply delete these sections if you just want the visual changes.
+#
+# Its moveset assumes the Gen9 Resource Pack's move data being present, which can be downloaded here: 
+# https://eeveeexpo.com/resources/1101/
+# If you don't use this pack, check out the Optional Files folder for an alternative version of this PBS file, 
+# or simply delete the Moves, TutorMoves, and EggMoves sections of this file to use the standard Charmander's. 
+#-------------------------------
+[CHARMANDER,1]
+FormName = Basal Form
+BaseStats = 39,62,43,65,55,50
+EVs = ATTACK,1
+Happiness = 50
+Abilities = FLAMEBODY, FLASHFIRE
+HiddenAbilities = DEFEATIST
+Moves = 1,GROWL,1,SCRATCH,8,FLAMEWHEEL,12,BITE,17,FIREFANG,20,SLASH,24,WILLOWISP,32,FLAMECHARGE,38,FLAREBLITZ,44,RAGINGFURY,52,BITTERBLADE
+TutorMoves = BODYSLAM,BREAKINGSWIPE,BRICKBREAK,CRUNCH,DIG,DRAGONCLAW,DRAGONDANCE,DRAGONPULSE,DRAGONTAIL,ENDURE,FACADE,FALSESWIPE,FIREBLAST,FIREFANG,FIREPLEDGE,FIREPUNCH,FIRESPIN,FLAMECHARGE,FLAMETHROWER,FLAREBLITZ,FLING,FOCUSBLAST,FOCUSPUNCH,HEATWAVE,HELPINGHAND,METALCLAW,OUTRAGE,OVERHEAT,PROTECT,REST,ROAR,ROCKSLIDE,ROCKTOMB,SCARYFACE,SHADOWCLAW,SLEEPTALK,SUBSTITUTE,SWIFT,SWORDSDANCE,TAKEDOWN,THUNDERPUNCH,FLAMEBURST
+EggMoves = ANCIENTPOWER,BELLYDRUM,BITE,SUNNYDAY,DRAGONRUSH,DRAGONTAIL,IRONTAIL,METALCLAW,BURNINGBULWARK,DRAGONCHEER,WILLOWISP,BURNUP,TEMPERFLARE
+Weight = 9.5
+Habitat = Cave
+Pokedex = When rain is too sparse and the grass becomes dry during the hot months, its tail may cause wildfires. Some CHARMANDER use this to hunt.
