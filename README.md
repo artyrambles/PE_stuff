@@ -1,4 +1,4 @@
-# Pokemon Essentials Plugins
+# Pokemon Essentials Stuff
 Here you can find my plugins and resources for Pokemon Essentials.
 I use PE v21.1, so I can only guarantee that they are compatible with that version of the kit. They most likely won't be compatible with higher or lower versions.
 
